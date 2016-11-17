@@ -83,9 +83,9 @@ exports.handle = function handle(client) {
     streams: {
       goodbye: handleGoodbye,
       greeting: handleGreeting,
-      main: 'onboarding',
-      onboarding: [sayHello],
-      ask_current_weather: [collectCity, provideWeather],
+      main: 'getWeather',
+      hi: [sayHello],
+      getWeather: [collectCity, provideWeather],
       end: [untrained]
     }
   })
