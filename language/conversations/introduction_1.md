@@ -1,16 +1,16 @@
 ---
 title: introduction_1
-timestamp: 2016-11-18T00:47:24.869180294+03:00
+timestamp: 2016-11-18T01:29:12.867802421+03:00
 ---
 
 what's your name?
-* thanks
+* acquaintance
 
 < I am Bot.., I mean Bob
-* turing/feelings
+* acquaintance
 
 are you a person?
-* turing/feelings
+* turing/human
 
 < I believe I am, I can talk to you, right? :)
-* apology/untrained
+* turing/feelings
